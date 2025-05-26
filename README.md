@@ -137,17 +137,6 @@ export default {
 }
 ```
 
----
-
-## 📬 Stay Updated
-
-Follow the project:
-🔗 [github.com/rsr72/bible-study-ai](https://github.com/rsr72/bible-study-ai)
-
----
-
-> _“Your word is a lamp for my feet, a light on my path.”_ — Psalm 119:105
-
 ## 🚀 Start the App: Frontend + Backend
 
 ### ✅ 1. Backend (FastAPI + OpenAI)
@@ -172,3 +161,15 @@ npm start
 This will launch your UI at:
 
 👉 http://localhost:3000
+
+---
+
+## 📬 Stay Updated
+
+Follow the project:
+🔗 [github.com/rsr72/bible-study-ai](https://github.com/rsr72/bible-study-ai)
+
+---
+
+> _“Your word is a lamp for my feet, a light on my path.”_ — Psalm 119:105
+
