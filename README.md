@@ -147,3 +147,28 @@ Follow the project:
 ---
 
 > _“Your word is a lamp for my feet, a light on my path.”_ — Psalm 119:105
+
+## 🚀 Start the App: Frontend + Backend
+
+### ✅ 1. Backend (FastAPI + OpenAI)
+
+```bash
+cd ~/bible-study-ai/backend
+source venv/bin/activate
+uvicorn app.main:app
+```
+
+> ❗️Do not use `--reload` — it causes `.env` issues on macOS and Python 3.13.
+
+### ✅ 2. Frontend (React + Tailwind)
+
+Open a new terminal tab or window:
+
+```bash
+cd ~/bible-study-ai/frontend
+npm start
+```
+
+This will launch your UI at:
+
+👉 http://localhost:3000
